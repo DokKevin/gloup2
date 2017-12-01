@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">gloup</string>
+    <!--LogInPage -->
+
+    <string name="username_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="login_button">log in</string>
+    <string name="forgot_password_button">forgot password?</string>
+    <string name="dont_have_an_account_button">don\'t have an account?</string>
+
+    <!-- SignUpPage -->
+    <string name="email_address_hint">email</string>
+    <string name="sign_up_button">sign up</string>
+    <string name="alreadyhaveanaccount_button">already have an account?</string>
+    <string name="confirm_password_hint">re-enter password</string>
+
+</resources>
