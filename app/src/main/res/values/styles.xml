@@ -8,7 +8,6 @@
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:textViewStyle">@style/RobotoTextViewStyle</item>
         <item name="android:editTextStyle">@style/RobotoEditTextStyle</item>
-        <item name="android:calendarViewStyle">@style/CalendarMain</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
         <item name="windowActionBarOverlay">true</item>
@@ -39,9 +38,7 @@
         <item name="android:textStyle">italic</item>
     </style>
 
-    <style name="CalendarMain" parent="android:Widget.CalendarView">
-        <item name="android:fontFamily">sans-serif-light</item>
-    </style>
+
 
 
 </resources>
