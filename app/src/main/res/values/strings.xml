@@ -13,5 +13,20 @@
     <string name="sign_up_button">sign up</string>
     <string name="alreadyhaveanaccount_button">already have an account?</string>
     <string name="confirm_password_hint">re-enter password</string>
+    
+    <!-- NavDrawer -->
+
+    <string-array name="example_groups">
+        <item>stats [MATH 310]</item>
+        <item>German 101</item>
+        <item>mobile app</item>
+    </string-array>
+    
+    <string-array name="planets_array">
+        <item>groups</item>
+        <item>documents</item>
+        <item>friend list</item>
+        <item>calendar</item>
+    </string-array>
 
 </resources>
